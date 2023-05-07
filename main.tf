@@ -8,7 +8,7 @@ instance_type = "t2.micro"
 tags = {
     Name = "TF-Instance1"
     resource "aws_s3_bucket" "S3 Bucket" {
-  bucket = "sachinbuc3"
+  bucket = "aarifkarbuc1"
 
   tags = {
     Name        = "terrabuc"
